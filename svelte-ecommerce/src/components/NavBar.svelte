@@ -1,5 +1,7 @@
 <script></script>
-<style></style>
+<style>
+    
+</style>
 <main>
           <!-- Header Component -->
           <header class="bg-[#086788]">
