@@ -23,30 +23,37 @@ The **Product Detail Svelte App** is a modern web application built using the Sv
   4. build the application for production use
   5. run it by npm run dev
 
-# Technologies Used
+## Technologies Used
 Svelte: A modern framework for building user interfaces with a reactive and component-based approach.
 Tailwind CSS: A utility-first CSS framework used for styling and responsive design.
 Fake Store API: An external API used for fetching product data.
-# Challenges Faced
-API Integration: Ensuring correct fetching and handling of data from the Fake Store API posed a challenge, especially handling the asynchronous nature of data fetching and error management.
 
-Responsive Design: Achieving a layout that is both visually appealing and functional across different screen sizes required careful use of Tailwind CSS and media queries.
+## Challenges Faced
+###  API Integration:
+Ensuring correct fetching and handling of data from the Fake Store API posed a challenge, especially handling the asynchronous nature of data fetching and error management.
 
-Error Handling: Providing clear and user-friendly error messages when the API fails or data is not found required implementing robust error handling mechanisms.
+### Responsive Design: 
+Achieving a layout that is both visually appealing and functional across different screen sizes required careful use of Tailwind CSS and media queries.
 
-Areas of Improvement
-User Authentication: Adding user authentication and allowing users to save or wishlist products could enhance functionality.
+### Error Handling: 
+Providing clear and user-friendly error messages when the API fails or data is not found required implementing robust error handling mechanisms.
 
-State Management: Implementing state management solutions (e.g., Svelte stores) to handle more complex application states and interactions.
+## Areas of Improvement
+### User Authentication: 
+Adding user authentication and allowing users to save or wishlist products could enhance functionality.
 
-Testing: Increasing the coverage of unit and integration tests to ensure application reliability and catch potential bugs early.
+### State Management: 
+Implementing state management solutions (e.g., Svelte stores) to handle more complex application states and interactions.
 
-Performance Optimization: Investigating and optimizing performance, especially for larger data sets or when dealing with more complex interactions.
+### Testing: 
+Increasing the coverage of unit and integration tests to ensure application reliability and catch potential bugs early.
 
-Overall Learning Experience
+### Performance Optimization: 
+Investigating and optimizing performance, especially for larger data sets or when dealing with more complex interactions.
+
+## Overall Learning Experience
 Working on this project provided valuable insights into:
-
-Component-Based Development: Understanding how to build and structure Svelte components effectively.
+#### Component-Based Development: Understanding how to build and structure Svelte components effectively.
 API Integration: Gaining experience with asynchronous data fetching and managing API responses.
 Responsive Design: Learning how to implement responsive design using Tailwind CSS to ensure compatibility across various devices.
 Error Handling: Enhancing skills in managing application states and providing feedback to users when issues arise.
